@@ -33,8 +33,7 @@ http://localhost:3000/
 
 ### 在手機上開
 
-[**使用ngrok讓外網裝置執行電腦Localhost佈署的APP**
-*如何從外網連到本地的localhost*medium.com](https://medium.com/@yanweiliu/使用ngrok讓外網裝置執行電腦localhost佈署的app-c60e78e95601)
+[**使用ngrok讓外網裝置執行電腦Localhost佈署的APP**](https://medium.com/@yanweiliu/使用ngrok讓外網裝置執行電腦localhost佈署的app-c60e78e95601)
 
 ```
 #開啟ngrok.exe後，輸入下方指令後會產生一串網址，將該網址於手機上開啟即可
@@ -43,4 +42,6 @@ ngrok http 3000
 ```
 
 https://towardsdatascience.com/turning-your-mobile-phone-camera-into-an-object-detector-on-your-own-1428055b8e01
+
+
 
